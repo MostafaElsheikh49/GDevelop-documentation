@@ -151,7 +151,7 @@ Creating your own behaviors has multiple advantages:
 !!! note
 
     Encapsulation and reusability are core concepts in programming. In other game engines, like Unity, objects and behaviors might be named entities and components.
-
+        
 ## Examples/ideas for custom behaviors
 
 You can imagine tons of different behaviors. Here are a few examples:
